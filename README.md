@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=bokkasaipratyusha1210&style=for-the-badge&color=8957e5"/>
+
   <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-9B5DE5?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/CGPA-9.13-6A00F4?style=for-the-badge" alt="CGPA 9.13" />
 </p>
