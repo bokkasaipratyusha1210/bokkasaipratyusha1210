@@ -184,7 +184,7 @@ Salesforce Platform Developer · IBM SkillsBuild Data Fundamentals · RapidMiner
 
 <br/><br/>
 
-*“The best way to learn is to build, test, and keep asking better questions.”*
+*“Building ideas into reality, one line of code at a time.”*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:9B5DE5,100:F15BB5&height=100&section=footer" alt="Footer banner" />
 
