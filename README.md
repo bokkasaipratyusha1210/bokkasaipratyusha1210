@@ -131,6 +131,26 @@ Responsive application with user authentication, client-side routing, and a comp
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🫀 LifeLine
+**Emergency Assistance Web Application**
+
+Responsive emergency assistance site that provides quick access to critical emergency resources through a simple, accessible interface.
+
+[![Repository](https://img.shields.io/badge/View%20Repository-6A00F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bokkasaipratyusha1210/Lifeline)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-24292e?style=for-the-badge&logo=vercel&logoColor=white)](https://life-line-emergency.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ More coming soon
+Continuously learning, experimenting, and building projects at the intersection of data, AI, and software development.
+
+</td>
+</tr>
 </table>
 
 ## 💼 Virtual Experience
